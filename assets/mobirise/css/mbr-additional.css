@@ -81,7 +81,7 @@
 
 #header4-6 P {
   font-family: 'Montserrat', sans-serif;
-  color: #535353;
+  color: #ffffff;
   font-size: 16px;
   text-align: right;
 }
@@ -135,6 +135,9 @@
 #ext_menu-9.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #header3-54 H3 {
   text-align: center;
 }
@@ -143,6 +146,9 @@
 }
 #ext_menu-9.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
+}
+#ext_menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #ext_menu-9 .mbr-brand__name {
   font-size: 16px;
